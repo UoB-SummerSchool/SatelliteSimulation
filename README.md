@@ -5,4 +5,4 @@ Simulator for different platforms can be downloaded from:
 [OSX](http://people.cs.bris.ac.uk/slock/solar/MacOSX.zip) / 
 [Windows](http://people.cs.bris.ac.uk/slock/solar/Windows.zip)
 
-<a href="http://people.cs.bris.ac.uk/slock/solar/Linux.zip">test</a>
+<a href="http://people.cs.bris.ac.uk/slock/solar/">test</a>
